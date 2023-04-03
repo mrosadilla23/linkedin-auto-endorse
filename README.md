@@ -1,2 +1,2 @@
 # linkedin-auto-endorse
-Cool script to quickly endorse skills on linkedin.
+Just paste the contents of endorse.js into the chrome console when you're on the person's profile.
